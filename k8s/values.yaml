@@ -1,0 +1,9 @@
+# values.yaml
+app:
+  name: hello-world
+  replicas: 1
+
+domain: ltu-m7011e-5.se
+email: paucor-5@student.ltu.se
+
+message: "Hello from Kubernetes with SSL!"
