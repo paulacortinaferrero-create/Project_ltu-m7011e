@@ -1,6 +1,6 @@
 # values.yaml
 app:
-  name: hello-world
+  name: recipe-app
   replicas: 1
 
 domain: ltu-m7011e-5.se
