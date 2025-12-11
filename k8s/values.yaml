@@ -1,5 +1,5 @@
 app:
-  name: MyRecipies
+  name: myrecipies
   replicas: 1
 
 # Defining the Docker image to use for the frontend application
